@@ -1,6 +1,6 @@
 # Trabajando con poblacion pima
 
-pima <- readRDS("path/Pima_pop.rds")
+pima <- readRDS("raw_data/Pima_pop.rds")
 
 
 ### ahora pimas
