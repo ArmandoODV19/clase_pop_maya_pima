@@ -1,6 +1,7 @@
 # Trabajando con poblacion maya
 
-maya <- readRDS("path/Mayan_pop.rds")
+
+maya <- readRDS("raw_data/Mayan_pop.rds")
 
 
 ## primero de mayas
